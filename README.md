@@ -12,7 +12,7 @@ Passionné par la tech, j'aime autant coder le backend que bidouiller du DevOps 
 ### 🔧 Projet en vedette :
 
 **📦 LiensClientOutil**  
-Une application pour connecter intelligemment des clients à leurs outils, en prenant en compte les versions, le statut, les notes, et peut-être même l’humeur du jour 🤖
+Une application pour connecter intelligemment des clients à leurs outils, en prenant en compte les versions, le statutet de laisser des notes écrites 🤖
 
 _Techs utilisées :_ C#, .Net, T-SQL
 
