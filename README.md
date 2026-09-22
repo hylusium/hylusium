@@ -2,8 +2,8 @@
 <p align="center"><b>Développeur Full Stack & Intelligence Artificielle</b><br/>Étudiant à l'EPSI Lyon · France</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TON-PROFIL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ton.email@exemple.com"><img src="https://img.shields.io/badge/Email-333333?style=flat&logo=maildotru&logoColor=white" alt="Email" /></a>
+  <a href="https://fr.linkedin.com/in/hugo-drevet"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hugo.drevet@hotmail.fr"><img src="https://img.shields.io/badge/Email-333333?style=flat&logo=maildotru&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/hylusium?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=flat&logo=github&logoColor=white" alt="Repositories" /></a>
 </p>
 
