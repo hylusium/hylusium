@@ -11,7 +11,7 @@
 
 ### À propos
 
-Étudiant en développement Full Stack et Intelligence Artificielle à l'EPSI Lyon, je conçois des applications web de bout en bout, du backend à l'interface, avec un intérêt particulier pour l'architecture logicielle, les pratiques DevOps et l'intégration de modèles d'IA.
+Étudiant en dernière année de mastère expert en informatique et système d'informations développement à l'EPSI Lyon, je conçois des applications web de bout en bout, du backend à l'interface, avec un intérêt particulier pour l'architecture logicielle, les pratiques DevOps et l'intégration de modèles d'IA.
 
 Je cherche à collaborer sur des projets concrets et à contribuer à des projets open source.
 
@@ -47,7 +47,7 @@ Je cherche à collaborer sur des projets concrets et à contribuer à des projet
 
 ### Formation
 
-**EPSI Lyon** — Cursus Développement Full Stack & Intelligence Artificielle
+**EPSI Lyon** — mastère expert en informatique et système d'informations développement
 
 ### Activité GitHub
 
